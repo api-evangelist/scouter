@@ -1,8 +1,29 @@
 aid: scouter
 name: Scouter
-description: Scouter is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Scouter is a Mexican online marketplace, founded in 2021 in Guadalajara, for
+  discovering and booking unique locations — houses, mansions, studios,
+  terraces, haciendas, rooftops and more — for audiovisual productions, events,
+  photo shoots and workshops across Mexico. It connects brands, agencies and
+  production companies with the owners of over 1,500 spaces, handling quotes and
+  reservations directly via WhatsApp (no public list prices, 8-hour minimum
+  booking). Clients have included Netflix, HBO, Puma, Nike and Grupo Modelo.
+  Backed by 500 Global (500 LatAm "Somos Lucha" Batch 16). The public product is
+  a consumer/host web app at wearescouter.com; it exposes no public developer
+  API. Added to the API Evangelist network as a portfolio lead and enriched.
 url: https://raw.githubusercontent.com/api-evangelist/scouter/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/e68c34d3-f0f6-4771-a0ab-24b1f3744ef1/id-preview-ecc13c05--cf961fa6-6101-46c6-9a0b-622b064e7ca8.lovable.app-1771288857979.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +32,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Marketplace
+- Media Production
+- Location Rental
+- Events
+- Real Estate
+- Mexico
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +48,24 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/scouter-domain-security.yml
 - type: Website
-  url: https://scouter.com.mx
+  url: https://wearescouter.com
+- type: About
+  url: https://wearescouter.com/about
+- type: Support
+  url: https://wearescouter.com/faq
+- type: SignUp
+  url: https://wearescouter.com/signup
+- type: Login
+  url: https://wearescouter.com/login
+- type: PrivacyPolicy
+  url: https://wearescouter.com/privacy
+- type: LLMsTxt
+  url: llms/scouter-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

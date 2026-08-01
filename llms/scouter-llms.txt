@@ -1,0 +1,20 @@
+# Scouter
+
+> Marketplace mexicano de locaciones únicas para producciones audiovisuales, eventos, sesiones fotográficas y talleres. Cotizaciones por WhatsApp, sin precios públicos. Mínimo de reserva: 8 horas.
+
+Scouter conecta marcas, agencias y productoras con propietarios de espacios (casas, mansiones, estudios, terrazas, haciendas y más) en todo México. La gestión de cotizaciones y reservaciones se realiza estrictamente por WhatsApp (+52 33 3593 8893).
+
+## Pages
+
+- [Inicio](/): Hero, locaciones destacadas, categorías y ciudades.
+- [Buscar locaciones](/search): Catálogo con filtros por estado, categoría y texto.
+- [Búsqueda con IA](/ai-search): Encuentra locaciones describiendo tu proyecto en lenguaje natural.
+- [Sube tu locación](/submit-location): Información para anfitriones interesados en publicar.
+- [Sobre nosotros](/about): Historia, misión y equipo de Scouter.
+- [Preguntas frecuentes](/faq): Cómo funciona Scouter para clientes y anfitriones.
+- [Aviso de privacidad](/privacy): Política de privacidad y manejo de datos.
+
+## Optional
+
+- [Iniciar sesión](/login): Acceso a tableros de favoritos.
+- [Crear cuenta](/signup): Registro para guardar tableros.
