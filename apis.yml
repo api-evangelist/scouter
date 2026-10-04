@@ -50,7 +50,7 @@ tags:
 - Media Production
 - Location Rental
 - Event
-- Real-Estate
+- Real Estate
 - Mexico
 tags_raw:
 - Company
@@ -60,6 +60,7 @@ tags_raw:
 - Events
 - Real Estate
 - Mexico
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
